@@ -3,7 +3,7 @@ body{
 }
 
 h2{
-    text-align:center;
+    text-align: start;
 
 }
 
@@ -14,9 +14,11 @@ p{
 
 header{ 
     border-style: solid;
-    border-color: black;
+    border-color: black; 
     border-left: 5px;
     border-width: 5px;
     text-align: start;
+    height: 100%;
+    width: 700px;
     
 }
